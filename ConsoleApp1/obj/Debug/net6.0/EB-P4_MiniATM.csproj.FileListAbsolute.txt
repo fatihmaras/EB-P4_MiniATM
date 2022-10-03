@@ -1,0 +1,15 @@
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\bin\Debug\net6.0\EB-P4_MiniATM.exe
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\bin\Debug\net6.0\EB-P4_MiniATM.deps.json
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\bin\Debug\net6.0\EB-P4_MiniATM.runtimeconfig.json
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\bin\Debug\net6.0\EB-P4_MiniATM.dll
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\bin\Debug\net6.0\EB-P4_MiniATM.pdb
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\obj\Debug\net6.0\EB-P4_MiniATM.csproj.AssemblyReference.cache
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\obj\Debug\net6.0\EB-P4_MiniATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\obj\Debug\net6.0\EB-P4_MiniATM.AssemblyInfoInputs.cache
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\obj\Debug\net6.0\EB-P4_MiniATM.AssemblyInfo.cs
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\obj\Debug\net6.0\EB-P4_MiniATM.csproj.CoreCompileInputs.cache
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\obj\Debug\net6.0\EB-P4_MiniATM.dll
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\obj\Debug\net6.0\refint\EB-P4_MiniATM.dll
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\obj\Debug\net6.0\EB-P4_MiniATM.pdb
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\obj\Debug\net6.0\EB-P4_MiniATM.genruntimeconfig.cache
+D:\Projeler\GitHub\EnesBayram\EB-P4_MiniATM\ConsoleApp1\obj\Debug\net6.0\ref\EB-P4_MiniATM.dll
